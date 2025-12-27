@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Planetes",
+  "base_artist": "EGOIST",
+  "createdAt": "2025-12-27T07:54:13.567517Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Les petites planètes",
+      "artist": "Manu Chao",
+      "has_synced": true,
+      "path": "select/01_Les_petites_planètes_Manu_Chao.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Planetes Marins",
+      "artist": "Pastora",
+      "has_synced": false,
+      "path": "select/02_Planetes_Marins_Pastora.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Planetes Marins",
+      "artist": "Pastora",
+      "has_synced": true,
+      "path": "select/03_Planetes_Marins_Pastora.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Planetes",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/04_Planetes_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Les planètes",
+      "artist": "M. Pokora",
+      "has_synced": true,
+      "path": "select/05_Les_planètes_M._Pokora.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Planetes (From Best AL Alter Ego)",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/06_Planetes_(From_Best_AL_Alter_Ego)_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "3 Planètes",
+      "artist": "Freeze Corleone",
+      "has_synced": true,
+      "path": "select/07_3_Planètes_Freeze_Corleone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Planetes",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/08_Planetes_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "L'alignement des planetes",
+      "artist": "La Rue Kétanou",
+      "has_synced": true,
+      "path": "select/09_L'alignement_des_planetes_La_Rue_Kétanou.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Les planètes (Clip officiel)",
+      "artist": "M. Pokora",
+      "has_synced": true,
+      "path": "select/10_Les_planètes_(Clip_officiel)_M._Pokora.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Le Marchand De Planètes",
+      "artist": "Ange",
+      "has_synced": true,
+      "path": "select/11_Le_Marchand_De_Planètes_Ange.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Les Petites Planetes",
+      "artist": "Manu Chao",
+      "has_synced": true,
+      "path": "select/12_Les_Petites_Planetes_Manu_Chao.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "PLANETES [Cadenza]",
+      "artist": "Hitomi",
+      "has_synced": false,
+      "path": "select/13_PLANETES_[Cadenza]_Hitomi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "PLANETES",
+      "artist": "Hitomi",
+      "has_synced": false,
+      "path": "select/14_PLANETES_Hitomi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Planetes",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_01_Planetes_EGOIST.txt"
+    }
+  ]
+}
